@@ -1,6 +1,6 @@
 Test-cases
 
-## Installing the blynk application.
+# Installing the blynk application.
 1)go to www.blynk.cc;
 2)press a button "Google Play";
 3)on the Blynk page in Google Play press button "install";
